@@ -1,19 +1,19 @@
 
 
-| Denis Koush |  Phone                   Email                                      Location                              . (650) 695-7043    [denisv.koush@gmail.com](mailto:denis.koush@gmail.com)   2685 California St. Apt 207. Mountain View, CA             .          |
-| :---- | ----: |
+| Denis Koush |  | Email [denisv.koush@gmail.com](mailto:denis.koush@gmail.com) Phone (650) 695-7043 | Locations Mountain View, CA Santa Barbara, CA | GitHub   [0denis0.github.io](http://0denis0.github.io) |
+| :---- | :---- | :---- | :---- | :---- |
 
 **SUMMARY**  
-Third-year mechanical engineer at UCSB and university Formula SAE team member. Experience with programming in several languages, 3D modeling, GD\&T, FEA, 3D printing, and most business software.  
+Fourth-year mechanical engineer at UCSB and university Formula SAE team member. Experience with programming in several languages, 3D modeling, GD\&T, FEA, 3D printing.  
 **EDUCATION**  
 **Bachelor of Science, University of California: Santa Barbara**  
-*Santa Barbara CA • September 2021 – June 2025 (Expected)*  
-Major: Mechanical Engineering, GPA 3.45  
+Santa Barbara CA *• September 2021 – June 2025 (Expected)*  
+Major: Mechanical Engineering, GPA 3.47  
 **EXPERIENCE**
 
 ### **Formula SAE Member**
 
-### *UCSB Formula SAE (Gaucho Racing), Santa Barbara CA • July 2023 – Present*
+### UCSB Formula SAE (Gaucho Racing), Santa Barbara CA *• July 2023 – Present*
 
 * Designing and constructing an electric racecar to be raced against competing universities  
 * Member of the powertrain team, using MATLAB, Solidworks, and Ansys to create an optimal design  
@@ -37,7 +37,7 @@ Major: Mechanical Engineering, GPA 3.45
 
 ### **Junior Engineer**
 
-###### Beyond PCB, Mountain View CA *• January 2016 – August 2021*
+### Beyond PCB, Mountain View CA *• January 2016 – August 2021*
 
 * Assembled and soldered circuit boards with both through-hole and SMD components
 
@@ -47,11 +47,11 @@ Major: Mechanical Engineering, GPA 3.45
 
 **SKILLS**
 
-| CAD (Solidworks, Creo, Autodesk Inventor, etc.) FEA (Solidworks, Ansys) 3D printing and 3D printer troubleshooting Python, MATLAB, VBA, LabView, and Java  Math demos, image processing, data visualization, computational scripts, etc. Excel (and VBA), E-mail, PowerPoint, Word Using an oscilloscope, circuit debugging | Arduino, mechatronics prototyping Basic circuit design, circuit assembly, soldering Basic clean room experience Reverse engineering Technical writing Proficient in French, native in Russian Self-taught bike/other mechanical repair Fast learner |
+| CAD (Solidworks, Creo, etc.), CAM (Mastercam) FEA, CFD (Solidworks, Ansys) 3D printing and 3D printer troubleshooting Python, MATLAB, VBA, LabView, and Java  Math demos, image processing, data visualization, computational scripts, etc. Arduino, mechatronics prototyping Using an oscilloscope, circuit debugging | Basic circuit design, circuit assembly, soldering Basic clean room experience Excel (and VBA), E-mail, PowerPoint, Word Technical writing Native in Russian, proficient in French Self-taught bike/other mechanical repair Fast learner |
 | :---- | :---- |
 
 **RELEVANT COURSES**
 
-| Engineering Principles (3D modeling, GD\&T, and conventions), FEA: Theory and Practice Engineering Practices (Product design and testing) Design For Manufacturing and Assembly Strength of Materials, Statics, and Dynamics Thermodynamics and Fluid Mechanics Applied Programming (MATLAB)  | Circuits and Mechatronics Machine Learning, Computer Vision Vibrations, Controls, Robotics Controls Math (Up to vector calculus) Technical Writing/Product Development Physics: Intermediate Mechanics, E\&M, Maxwell’s Equations, modern physics, etc.  |
+| Engineering Principles (3D modeling, GD\&T, and conventions), Multiphysics Simulation, FEA: Theory and Practice Engineering Practices (Product design and testing) Design For Manufacturing and Assembly Strength of Materials, Statics, and Dynamics Thermodynamics and Fluid Mechanics MEMS/NEMS Processing and Characterization | Design of Biomedical Devices Applied Programming (MATLAB) Circuits and Mechatronics Machine Learning, Computer Vision Vibrations, Controls, Robotics Controls Math (Up to vector calculus) Technical Writing/Product Development  |
 | :---- | :---- |
 
