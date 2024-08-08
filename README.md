@@ -1,1 +1,4 @@
-Check out my website: https://0Denis0.github.io
+# Mechanical Engineer
+
+### Education
+B.S. Mechanical Engineering - University of California, Santa Barbara (Jun 2025)
