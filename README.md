@@ -45,10 +45,22 @@ Major: Mechanical Engineering, GPA 3.47
 
 * Developed and debugged code for several freelance Arduino-based projects
 
-**SKILLS**
-
-| CAD (Solidworks, Creo, etc.), CAM (Mastercam) FEA, CFD (Solidworks, Ansys) 3D printing and 3D printer troubleshooting Python, MATLAB, VBA, LabView, and Java  Math demos, image processing, data visualization, computational scripts, etc. Arduino, mechatronics prototyping Using an oscilloscope, circuit debugging | Basic circuit design, circuit assembly, soldering Basic clean room experience Excel (and VBA), E-mail, PowerPoint, Word Technical writing Native in Russian, proficient in French Self-taught bike/other mechanical repair Fast learner |
-| :---- | :---- |
+| **Skills**                                                                             |                                                            |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------|
+| <ul>                                                                                   | <ul>                                                       |
+| <li>CAD (Solidworks, Creo, etc.), CAM (Mastercam)</li>                                 | <li>Basic circuit design, circuit assembly, soldering</li> |
+| <li>FEA, CFD (Solidworks, Ansys)</li>                                                  | <li>Basic clean room experience</li>                       |
+| <li>3D printing and 3D printer troubleshooting</li>                                    | <li>Excel (and VBA), E-mail, PowerPoint, Word</li>         |
+| <li>Python, MATLAB, VBA, LabView, and Java</li>                                        | <li>Technical writing</li>                                 |
+| <li style="list-style-type:none">                                                      | <li>Native in Russian, proficient in French</li>           |
+| <ul>                                                                                   | <li>Self-taught bike/other mechanical repair</li>          |
+| <li>Math demos, image processing, data visualization, computational scripts, etc.</li> | <li>Fast learner</li>                                      |
+| </ul>                                                                                  | <li></li>                                                  |
+| </li>                                                                                  | </ul>                                                      |
+| <li>Arduino, mechatronics prototyping</li>                                             |                                                            |
+| <li>Using an oscilloscope, circuit debugging</li>                                      |                                                            |
+| <li></li>                                                                              |                                                            |
+| </ul>                                                                                  |                                                            |
 
 **RELEVANT COURSES**
 
