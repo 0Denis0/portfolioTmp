@@ -37,13 +37,13 @@ Major: Mechanical Engineering, GPA 3.45
 
 ### **Junior Engineer**
 
-###### *Beyond PCB, Mountain View CA • January 2016 – August 2021*
+###### Beyond PCB, Mountain View CA *• January 2016 – August 2021*
 
-* ###### Assembled and soldered circuit boards with both through-hole and SMD components
+* Assembled and soldered circuit boards with both through-hole and SMD components
 
-* ###### Conducted quality control and reliability testing of assembled products
+* Conducted quality control and reliability testing of assembled products
 
-* ###### Developed and debugged code for several freelance Arduino-based projects
+* Developed and debugged code for several freelance Arduino-based projects
 
 **SKILLS**
 
